@@ -4,10 +4,6 @@ module Plan
       "Signup"
     end
 
-    def description
-      "Description of the workflow"
-    end
-
     def attributes
       [:email, :password]
     end
