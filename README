@@ -1,0 +1,19 @@
+SYNOPSIS
+
+    Workflow template for gn, the file generator.
+
+    A workflow is a an instance of Scrivener, a validation frontend
+    for models. More information about Scrivener can be found at
+    http://soveran.github.com/scrivener/.
+
+INSTALLATION
+
+    $ gn -i https://github.com/soveran/workflow
+
+USAGE
+
+    $ gn workflow
+
+SEE ALSO
+
+    http://lucasefe.github.com/gn/

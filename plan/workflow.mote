@@ -1,0 +1,7 @@
+class {{name}} < Scrivener
+  {{ attributes.map { |att| "attr_accessor #{att.inspect}" }.join("\n  ") }}
+
+  def validate
+    {{ validations.join("\n    ") }}
+  end
+end
