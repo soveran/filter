@@ -1,18 +1,18 @@
 SYNOPSIS
 
-    Workflow template for gn, the file generator.
+    Filter template for gn, the file generator.
 
-    A workflow is a an instance of Scrivener, a validation frontend
+    A filter is a an instance of Scrivener, a validation frontend
     for models. More information about Scrivener can be found at
     http://soveran.github.com/scrivener/.
 
 INSTALLATION
 
-    $ gn -i https://github.com/soveran/workflow
+    $ gn -i https://github.com/soveran/filter
 
 USAGE
 
-    $ gn workflow
+    $ gn filter
 
 SEE ALSO
 

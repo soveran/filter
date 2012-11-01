@@ -1,5 +1,5 @@
 module Plan
-  class Workflow
+  class Filter
     def name
       "Signup"
     end
@@ -16,7 +16,7 @@ module Plan
     end
 
     def destination
-      "workflows/signup.rb"
+      "filters/signup.rb"
     end
   end
 end
